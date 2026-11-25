@@ -14,8 +14,10 @@ Phần mềm hỗ trợ quản lý hoạt động kinh doanh và kho dược ph�
 
 | STT | Họ và tên | MSSV | Vai trò dự kiến | GitHub |
 | :---: | :--- | :--- | :--- | :--- |
-| 1 | Mai Tiến Đạt | ... | Thành viên / Backend | [@tdat47](https://github.com/tdat47) |
-| 2 | Tuấn Phan Công | 25S1020112| Thành viên/ Database Dev | [@pct2904](https://github.com/pct2904) | 
+| 1 | Lê Văn Phong | @VanPhongg07 | Nhóm trưởng (Scrum Master / Dev) |
+| 2 | Mai Tiến Đạt | ... | Thành viên / Backend | [@tdat47](https://github.com/tdat47) |
+| 3 | Tuấn Phan Công | 25S1020112| Thành viên/ Database Dev | [@pct2904](https://github.com/pct2904) | 
+| 4 | Trần Phi Quân | quandaychang | Thành viên/ Database Dev) |
 
 ## 3. Công nghệ sử dụng & Kiến trúc
 - **Mô hình kiến trúc:** Layered Architecture (3 tầng: Presentation – Business Logic – Data Access)
