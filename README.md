@@ -1,4 +1,5 @@
 # quan-ly-nha-thuoc
+
 Hệ Thống Quản Lý Nhà Thuốc
 # Hệ Thống Quản Lý Nhà Thuốc (Pharmacy Management System)
 
@@ -28,3 +29,6 @@ Phần mềm hỗ trợ quản lý hoạt động kinh doanh và kho dược ph�
 1. `main`: Nhánh chính, chỉ chứa bản chạy ổn định cuối mỗi Sprint.
 2. `develop`: Nhánh tích hợp chung của cả nhóm.
 3. `feature/<ten-tinh-nang>`: Nhánh phát triển từng chức năng, tách từ `develop` và gửi Pull Request (PR) để review trước khi merge vào `develop`.
+
+| 1 | Lê Văn Phong | @VanPhongg07 | Nhóm trưởng (Scrum Master / Dev) |
+
